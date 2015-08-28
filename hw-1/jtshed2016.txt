@@ -1,0 +1,15 @@
+Jordan Shedlock
+Homework 1
+
+I had some basic experience with HTML and CSS in classes last year.  In Info 257, I created
+a web interface for a MySQL database using some AJAX and PHP, but closely following templates.  
+In InfoViz, I used HTML, CSS, and Javascript, JQuery, Highcharts, and D3 to create visualizations.  
+I am not an expert with any of these technologies, but can find my way around them.  I also 
+created a basic website for my wedding this summer; it got the job done, but it looked very 
+'90s and showed me why good planning and hierarchical thinking are important even for a 
+small web project.  
+
+My favorite browser for casual use is Tor; I appreciate the relatively granular control it
+gives me over potentially invasive technologies, although it's frustrating to have to switch 
+to other browsers for watching videos, etc.  I also like Firefox's console for debugging 
+Javascript.  I don't typically use Chrome, but the tie-in with Netbeans is very convenient.
